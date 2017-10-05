@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <h1>这是我在mac上的第一段代码，加油！</h1>
+  <h1>这是我在mac上的第一段代码，加油！努力</h1>
   </body>
 </html>
